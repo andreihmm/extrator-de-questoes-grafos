@@ -1,0 +1,7 @@
+1. é necessário salvar o exame desejado na pasta de provas
+
+2. no main.py, colocar o caminho da prova na variável "caminhoPDF"
+
+3. rodar o arquivo main.py
+
+4. os csvs serão salvos na pasta outputs/csv
