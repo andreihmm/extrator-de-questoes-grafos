@@ -30,7 +30,7 @@ DIREITO
 
 ###NUMERO: 1###
 
-Questão: O 01 
+Questão:  01 
 Segundo a pesquisa Retratos da Leitura no Brasil, realizada pelo Instituto Pró-Livro, a média anual brasileira de livros lidos por habitante era, em 2011, de 4,0. Em 2007, esse mesmo parâmetro correspondia a 4,7 livros por habitante/ano.
 % do total de leitores brasileiro s
 Proporção regional (% )
@@ -74,7 +74,7 @@ E a leitura está disseminada em um universo cada vez menor de brasileiros, inde
 
 ###NUMERO: 2###
 
-Questão: O 02 
+Questão:  02 
 O Cerrado, que ocupa mais de 20% do território nacional, é o segundo maior bioma brasileiro, menor apenas que a Amazônia. Representa um dos hotspots  para a conservação da biodiversidade mundial e é considerado uma das mais 
 importantes fronteiras agrícolas do planeta.Considerando a conservação da biodiversidade e a expansão da fronteira agrícola no Cerrado, avalie as afirmações a seguir.
 I. O Cerrado apresenta taxas mais baixas de desmatamento e percentuais mais altos de áreas protegidas que os demais biomas brasileiros.
@@ -89,7 +89,7 @@ DIREITO
 
 ###NUMERO: 3###
 
-Questão: O 03 
+Questão:  03 
 A floresta virgem é o produto de muitos milhões de anos que passaram desde a origem do nosso planeta. Se for abatida, pode crescer uma nova floresta, mas a continuidade é interrompida. A ruptura nos ciclos de vida natural de plantas e animais significa que a floresta nunca será aquilo que seria se as árvores não tivessem sido cortadas. A partir do momento em que a floresta é abatida ou inundada, a ligação com o passado perde-se para sempre. Trata-se de um custo que será suportado por todas as gerações que nos sucederem no planeta. É por isso que os ambientalistas têm razão quando se referem ao meio natural como um “legado mundial”. Mas, e as futuras gerações? Estarão elas preocupadas com essas questões amanhã? As crianças e os jovens, como indivíduos principais das futuras gerações, têm sido, cada vez mais, estimulados a apreciar ambientes fechados, onde podem relacionar-se com jogos de computadores, celulares e outros equipamentos interativos virtuais, desviando sua atenção de questões ambientais e do impacto disso em vidas no futuro, apesar dos esforços em contrário realizados por alguns setores. Observe-se que, se perguntarmos a uma criança ou a um jovem se eles desejam ficar dentro dos seus quartos, com computadores e jogos eletrônicos, ou passear em uma praça, não é improvável que escolham a primeira opção. Essas posições de jovens e crianças preocupam tanto quanto o descaso com o desmatamento de florestas hoje e seus efeitos amanhã.
 SINGER, P . Ética Prática. 2 ed. Lisboa: Gradiva, 2002, p. 292 (adaptado).
 É um título adequado ao texto apresentado acima:A Computador: o legado mundial para as gerações futuras
@@ -100,7 +100,7 @@ E Redução de investimentos no setor de comércio eletrônico: proteção das g
 
 ###NUMERO: 4###
 
-Questão: O 04 
+Questão:  04 
 É ou não ético roubar um remédio cujo preço é inacessível, a fim de salvar alguém, que, sem ele, morreria? Seria um erro pensar que, desde sempre, os homens têm as mesmas respostas para questões desse tipo. Com o passar do tempo, as sociedades mudam e também mudam os homens que as compõem. Na Grécia Antiga, por exemplo, a existência de escravos era perfeitamente legítima: as pessoas não eram consideradas iguais entre si, e o fato de umas não terem liberdade era considerado normal. Hoje em dia, ainda que nem sempre respeitados, os Direitos Humanos impedem que alguém ouse defender, explicitamente, a escravidão como a lgo legítimo.
 MINISTÉRIO DA EDUCAÇÃO. Secretaria de Educação Fundamental. Ética . Brasília, 
 2012. Disponível em: <portal.mec.gov.br>. Acesso em: 16 jul. 2012 (adaptado).
@@ -119,7 +119,7 @@ DIREITO
 
 ###NUMERO: 5###
 
-Questão: O 05 
+Questão:  05 
 A globalização é o estágio supremo da internacionalização. O processo de intercâmbio entre países, que marcou o desenvolvimento do capitalismo desde o período mercantil dos séculos 17 e 18, expande-se com a industrialização, ganha novas bases com a grande indústria nos fins do século 19 e, agora, adquire mais intensidade, mais amplitude e novas feições. O mundo inteiro torna-se envolvido em todo tipo de troca: técnica, comercial, financeira e cultural. A produção e a informação globalizadas permitem a emergência de lucro em escala mundial, buscado pelas firmas globais, que constituem o verdadeiro motor da atividad e econômica.
 SANTOS, M. O país distorcido . São Paulo: Publifolha, 2002 (adaptado).
 No estágio atual do processo de globalização, pautado na integração dos mercados e na competitividade em escala mundial, as crises econômicas deixaram de ser problemas locais e passaram a afligir praticamente todo o mundo. A crise recente, iniciada em 2008, é um dos exemplos mais significativos da conexão e interligação entre os países, suas economias, políticas e cidadãos.Considerando esse contexto, avalie as seguintes asserções e a relação proposta entre elas.I. O processo de desregulação dos mercados financeiros norte-americano e europeu levou à formação de uma bolha de empréstimos especulativos e imobiliários, a qual, ao estourar em 2008, acarretou um efeito dominó de quebras nos mercados.
@@ -133,7 +133,7 @@ E As asserções I e II são proposições falsas.
 
 ###NUMERO: 6###
 
-Questão: O 06 
+Questão:  06 
 O anúncio feito pelo Centro Europeu para a Pesquisa Nuclear (CERN) de que havia encontrado sinais de uma partícula que pode ser o bóson de Higgs provocou furor no mundo científico. A busca pela partícula tem gerado descobertas importantes, mesmo antes da sua confirmação. Algumas tecnologias utilizadas na pesquisa poderão fazer parte de nosso cotidiano em pouco tempo, a exemplo dos cristais usados nos detectores do acelerador de partículas large hadron colider (LHC), que 
 serão utilizados em materiais de diagnóstico médico ou adaptados para a terapia contra o câncer. “Há um círculo vicioso na ciência quando se faz pesquisa”, explicou o diretor do CERN. “Estamos em busca da ciência pura, sem saber a que servirá. Mas temos certeza de que tudo o que desenvolvemos para lidar com problemas inéditos será útil para algum setor.”
 CHADE, J. Pressão e disputa na busca do bóson. O Estado de S. Paulo , 
@@ -153,7 +153,7 @@ DIREITO
 
 ###NUMERO: 7###
 
-Questão: O 07 
+Questão:  07 
 Legisladores do mundo se comprometem
 a alcançar os objetivos da Rio+20
 Reunidos na cidade do Rio de Janeiro, 300 parlamentares de 85 países se comprometeram a ajudar seus governantes a alcançar os objetivos estabelecidos nas conferências Rio+20 e Rio 92, assim como a utilizar a legislação para promover um crescimento mais verde e socialmente inclusivo para todos.Após três dias de encontros na Cúpula Mundial de Legisladores, promovida pela GLOBE International 
@@ -172,7 +172,7 @@ E a Lei de Mudança Climática aprovada recentemente no México não impacta o a
 
 ###NUMERO: 8###
 
-Questão: O 08 
+Questão:  08 
 Taxa de rotatividade por setores de atividade econômica: 2007 - 2009
 SetoresTaxa de rotatividade (%), 
 excluídos transferências,
@@ -207,7 +207,7 @@ DIREITO
 
 ###NUMERO: 9###
 
-Questão: O DISCURSIVA 1 
+Questão:  DISCURSIVA 1 
 As vendas de automóveis de passeio e de veículos comerciais leves alcançaram 340 706 unidades em junho de 2012, alta de 18,75%, em relação a junho de 2011, e de 24,18%, em relação a maio de 2012, segundo informou, nesta terça-feira, a Federação Nacional de Distribuição de Veículos Automotores (Fenabrave). Segundo a entidade, este é o melhor mês de junho da história do setor automobilístico.
 Disponível em: <http://br.financas.yahoo.com>. Acesso em: 3 jul. 2012 (adaptado).
 Na capital paulista, o trânsito lento se estendeu por 295 km às 19 h e superou a marca de 293 km, registrada no dia 10 de junho de 2009. Na cidade de São Paulo, registrou-se, na tarde desta sexta-feira, o maior congestionamento da história, segundo a Companhia de Engenharia de Tráfego (CET). Às 19 h, eram 295 km de trânsito lento nas vias monitoradas pela empresa. O índice superou o registrado no dia 10 de junho de 2009, quando a CET anotou, às 19 h, 293 km de congestionamento.
@@ -223,7 +223,7 @@ DIREITO
 
 ###NUMERO: 10###
 
-Questão: O DISCURSIVA 2  
+Questão:  DISCURSIVA 2  
 A Organização Mundial da Saúde (OMS) define violência como o uso de força física ou poder, por ameaça ou na prática, contra si próprio, outra pessoa ou contra um grupo ou comunidade, que resulte ou possa resultar em sofrimento, morte, dano psicológico, desenvolvimento prejudicado ou privação. Essa definição agrega a intencionalidade à prática do ato violento propriamente dito, desconsiderando o efeito produzido.
 DAHLBERG, L. L.; KRUG, E. G. Violência:  um problema global de saúde pública. Disponível em: <http://www.scielo.br>. Acesso em: 18 jul. 2012 (adaptado).
 CABRAL, I. Disponível em: <http://www.ivancabral.com>.
@@ -242,7 +242,7 @@ DIREITO
 
 ###NUMERO: 11###
 
-Questão: O 09 
+Questão:  09 
 O caráter especial dos diplomas internacionais sobre direitos humanos lhes reserva lugar específico no ordenamento jurídico brasileiro: eles estão abaixo da Constituição, porém acima da legislação interna. O status normativo supralegal dos tratados internacionais 
 de direitos humanos subscritos pelo Brasil, dessa forma, torna inaplicável a legislação infraconstitucional com eles conflitante, seja ela anterior ou posterior ao ato de adesão. (...) A prisão civil do depositário infiel não mais se compatibiliza com os valores supremos assegurados pelo Estado Constitucional, que não está mais voltado para si mesmo, mas compartilha com as demais entidades soberanas, em contextos internacionais e supranacionais, o dever de efetiva proteção dos direitos humanos.
 BRASIL. Supremo Tribunal Federal. RE n. º 349.703-1/RS. Relator: Min. Gilmar 
@@ -264,7 +264,7 @@ E As asserções I e II são proposições falsas.COMPONENTE ESPECÍFICO
 
 ###NUMERO: 12###
 
-Questão: O 10 
+Questão:  10 
 A Constituição brasileira de 1988 reconheceu o direito dos remanescentes das comunidades de quilombos à propriedade definitiva das terras que ocupam, devendo o Estado emitir os respectivos títulos (Art. 68, Ato das Disposições Constitucionais Transitórias). Para dar efetividade ao texto constitucional, foi editado o Decreto n. º 4.887, de 20 de novembro, que regulamenta 
 o procedimento para identificação, reconhecimento, delimitação, demarcação e titulação das terras quilombolas. Importante notar que o referido Decreto é objeto de controle da constitucionalidade perante o Supremo Tribunal Federal desde 2004, sem julgamento do mérito.
 BRASIL. Supremo Tribunal Federal. Ação Direta de Inconstitucionalidade, ADI 
@@ -286,7 +286,7 @@ DIREITO
 
 ###NUMERO: 13###
 
-Questão: O 11 
+Questão:  11 
 HALVERSON, B. Disponível em: <http://revistaescola.abril.com.br>. Acesso em: 09 jul. 2012.
 No diálogo entre Calvin e seu pai reproduzido acima, a discussão dos personagens pode ser relacionada a temas da filosofia do Direito. Assim, considerando-se uma suposta norma que houvesse instituído o mandato de pai,A a afirmação de Calvin acerca da necessidade de um novo pai suscita a questão da validade da norma.
 B a resposta do pai de Calvin, que nega o término de seu mandato, constitui questão referente à vigência da norma.
@@ -297,7 +297,7 @@ E a informação de que a mãe de Calvin teria participado na redação da "Cons
 
 ###NUMERO: 14###
 
-Questão: O 12 
+Questão:  12 
 A expressão “acesso à Justiça” é reconhecidamente de difícil definição, mas serve para determinar duas finalidades básicas do sistema jurídico 
 — o sistema por meio do qual as pessoas podem reivindicar seus direitos e(ou) resolver 
 seus litígios, sob os auspícios do Estado. Primeiro, o sistema deve ser igualmente acessível a todos; segundo, ele deve produzir resultados que sejam individual e socialmente justos. Sem dúvida, uma premissa básica será a de que a justiça social, tal como desejada por nossas sociedades modernas, pressupõe o acesso efetivo. O acesso não é apenas um direito social fundamental, crescentemente reconhecido; ele é também, necessariamente, o ponto central da moderna processualística.
@@ -313,7 +313,7 @@ DIREITO
 
 ###NUMERO: 15###
 
-Questão: O 13 
+Questão:  13 
 A Constituição brasileira de 1988 reconheceu aos índios sua organização social, costumes, línguas, crenças e tradições, e os direitos originários sobre as terras que tradicionalmente ocupam (Art. 231). Sobre o processo de demarcação das terras indígenas, o Supremo Tribunal Federal decidiu pela demarcação contínua da Terra Indígena Raposa Serra do Sol, no Estado de Roraima, em conformidade com a Portaria n. º 534/2005 do Ministério 
 da Justiça (Petição n.º 3.388-RR, j. 19/03/2009).
 Tendo como base os dispositivos da Constituição Federal e as decisões do judiciário a respeito da demarcação das terras indígenas, verifica-se queA os direitos dos índios sobre as terras que tradicionalmente ocupam foram reconhecidos no texto constitucional, mas são exercidos com base em ato constitutivo de demarcação, de competência da União.
@@ -325,7 +325,7 @@ E a competência para a demarcação de terras indígenas é da União, na esfer
 
 ###NUMERO: 16###
 
-Questão: O 14 
+Questão:  14 
 Chamamos de julgamento (isto é, a faculdade graças à qual dizemos que uma pessoa julga compreensivamente) a percepção acertada do que é equitativo. Uma prova disto é o fato de dizermos que uma pessoa equitativa é, mais que todas as outras, um juiz compreensivo, e identificamos a equidade com o julgamento compreensivo acerca de certos fatos. E julgamento compreensivo é o julgamento em que está presente a percepção do que é equitativo, e de maneira acertada; e julgar acertadamente é julgar segundo a verdade.
 ARISTÓTELES. Ética a Nicômacos. Trad.: Mário da Gama Kury. 4 ed. 
 Brasília: EDUnB, 2001, p. 121-123.
@@ -343,7 +343,7 @@ DIREITO
 
 ###NUMERO: 17###
 
-Questão: O 15 
+Questão:  15 
 Em outra oportunidade, com a intenção de conceituar o termo “necessidade temporária”, empregado pelo art. 37,  inciso IX, da Constituição da República, anotei:É temporário aquilo que tem duração prevista no tempo, o que não tende à duração ou à permanência no tempo. A transitoriedade põe-se como uma condição que indica ser passageira a situação, pelo que o desempenho da função, pelo menos pelo contratado, tem o condão de ser precário. A necessidade que impõe o comportamento há de ser temporária, segundo os termos constitucionalmente traçados. Pode-se dar que a necessidade do desempenho não seja temporária, que ela até tenha de ser permanente. Mas a necessidade, por ser contínua e até mesmo ser objeto de uma resposta administrativa contida ou expressa num cargo que se encontre, eventualmente, desprovido, é que torna aplicável a hipótese constitucionalmente manifestada pela expressão “necessidade temporária”. Quer-se, então, dizer que a necessidade das funções é contínua, mas aquela que determina a forma especial de designação de alguém para desempenhá-las sem o concurso e mediante contratação é temporária.Assim, poderia haver a contratação para atender a necessidades temporárias de uma atividade que pode, ou não, ser permanente e própria do órgão da Administração Pública. O que deve ser temporária é a necessidade, e não a atividad e.
 BRASIL. Supremo Tribunal Federal. ADI n. º 3.386/DF. Rel. Min. Cármen Lúcia. 
 Julgamento em: 14/04/2011, publicada no DJe n.º 162, de 24/08/2011. 
@@ -356,7 +356,7 @@ E eficiência.
 
 ###NUMERO: 18###
 
-Questão: O 16 
+Questão:  16 
 Poeminha sobre o trabalho
 Chego sempre à hora certa,
 contam comigo, não falho, 
@@ -392,7 +392,7 @@ DIREITO
 
 ###NUMERO: 19###
 
-Questão: O 17 
+Questão:  17 
 John Locke, no século XVII, analisou a sociedade e organizou a defesa teórica da propriedade burguesa absoluta, que serviu de fundamento a muito que se conhece hoje do modelo de propriedade. A propriedade da terra passou a ser objeto no mundo das trocas. Na sociedade contemporânea, ela sofre uma série de limitações formais cujos conteúdos delineiam a sua função social, que se distingue da função social da posse e da função social da terra. A propriedade privada e seus consectários têm o caráter individualista dos direitos gerados nas concepções liberais do Estado moderno, e algumas restrições ao exercício desse direito ora se dão em favor da sociedade, ora em favor dos interesses dos próprios titulares dos direitos relacionados a ela.Considerando o texto acima, os fundamentos teóricos do direito de propriedade e os limites estabelecidos pelas suas funções na sociedade contemporânea, conclui-se que a demarcação de terras, como restrição oriunda dos direitos relativos à propriedade privada e das relações de contiguidade, é direitoA exclusivo do proprietário do bem, em razão da natureza dos interesses tutelados e do atendimento aos interesses sociais e à função social.
 B de titular de direito real de qualquer classe, como o condômino e o credor pignoratício, atendendo-se, assim, a interesses sociais e à função social.
 C de titular de direito real de posse, uso e fruição do imóvel, incluídos o locatário e o usufrutuário, atendendo-se, assim, aos interesses sociais.
@@ -402,7 +402,7 @@ E de titular de direito real ou obrigacional, incluídos o usufrutuário e o dep
 
 ###NUMERO: 20###
 
-Questão: O 18 
+Questão:  18 
 Tendo-se recusado a cumprir ordem lícita de serviço, um empregado foi advertido, por escrito, por seu gerente. Ao receber a advertência escrita, recusou-se a assinar cópia do documento do empregador, sob alegação de não concordar com seu conteúdo. Foi, então, despedido por justa causa, sob a imputação de ato de indisciplina. Nessa situação, infere-se queA o empregado agiu de forma ilegítima ao se recusar a assinar a advertência do gerente.
 B a imputação de indisciplina ao empregado que se recusou a assinar a advertência foi medida tomada corretamente pela empresa.
 C a empresa agiu corretamente ao despedir o empregado por justa causa com base na recusa dele de assinar a advertência escrita.
@@ -415,7 +415,7 @@ DIREITO
 
 ###NUMERO: 21###
 
-Questão: O 19 
+Questão:  19 
 Para efeito da proteção do Estado, é reconhecida a união estável entre o homem e a mulher como entidade familiar, devendo a lei facilitar sua conversão em casamento.
 BRASIL. Constituição da República Federativa do Brasil de 1988, art. 226, § 3.º .
 É reconhecida como entidade familiar a união estável entre o homem e a mulher configurada na convivência pública, contínua e duradoura e estabelecida com o objetivo de constituição de família.
@@ -435,7 +435,7 @@ E As asserções I e II são proposições falsas.
 
 ###NUMERO: 22###
 
-Questão: O 20 
+Questão:  20 
 O Estado de direito contrapõe-se ao Estado absoluto, porquanto, baseado na lei (que rege governantes e governados), reconhece aos indivíduos a titularidade de direitos públicos subjetivos, ou seja, de posições jurídicas ativas com relação à autoridade estatal.
 GRINOVER, A. P . Liberdades públicas e processo penal . 2 ed. 
 São Paulo: RT, 1982, p. 5 (adaptado).
@@ -451,7 +451,7 @@ DIREITO
 
 ###NUMERO: 23###
 
-Questão: O 21 
+Questão:  21 
 No artigo 1.º do Código de Ética do Advogado, afirma-se que “o exercício da advocacia exige conduta compatível com os preceitos deste Código, do Estatuto, do Regulamento Geral, dos Provimentos e com os demais princípios da moral individual, social e profissional”. À luz de tais princípios e normas, bem como da legislação ordinária, avalie as afirmações a seguir.
 I. O advogado deve recusar-se a fazer defesa criminal se considerar o réu culpado.
 II. O advogado-empregado tem direito aos honorários de sucumbência fixados em sentença referente a ação em que tenha atuado em nome da empresa que o emprega.
@@ -467,7 +467,7 @@ E III e IV.
 
 ###NUMERO: 24###
 
-Questão: O 22 
+Questão:  22 
 Os argumentos e a racionalidade da teoria da aparência estão fundamentados na ética das relações. Essa teoria tem por fim permitir a solucão dos conflitos que surgem nos negócios jurídicos, no âmbito tanto do direito empresarial quanto do direito civil, motivados por divergências entre os elementos volitivos e as declarações feitas.Acerca da teoria da aparência, objeto do texto acima, 
 avalie as afirmações a seguir.
 I. A teoria da aparência pressupõe equívoco cometido por homem médio que considera como situação de direito uma situação de fato, cercada de circunstâncias enganosas.
@@ -485,7 +485,7 @@ DIREITO
 
 ###NUMERO: 25###
 
-Questão: O 23 
+Questão:  23 
 Maria, servidora pública federal, mãe de 2 filhos, ingressa com Ação Ordinária na Justiça Federal, para declaração de inexigibilidade do imposto de renda sobre os valores recebidos pela autora a título de auxílio pré-escola, abstenção da retenção do imposto de renda sobre os mesmos valores e consequente restituição dos valores já descontados e retidos em seus vencimentos. A autora requer, ainda, antecipação de tutela, para evitar as retenções enquanto aguarda a decisão da lide. Utiliza, como fundamento para seu pedido, decisão do STJ que traz a seguinte ementa:
 DIREITO PROCESSUAL CIVIL E PREVIDENCIÁRIO. RECURSO ESPECIAL. VIOLAÇÃO DOS ARTS. 458, II E 535, I E II DO CPC. NÃO OCORRÊNCIA. CONTRIBUIÇÃO PREVIDENCIÁRIA. AUXÍLIO-CRECHE. NÃO INCIDÊNCIA. SÚMULA 310/STJ. RECURSO SUBMETIDO AO REGIME PREVISTO NO ARTIGO 543-C DO CPC. (...) 3. A jurisprudência desta Corte Superior firmou entendimento no sentido de que o auxílio-creche funciona como indenização, não integrando, portanto, o salário de contribuição para a Previdência. Inteligência da Súmula 310/STJ. Precedentes: EREsp 394.530/PR, Rel.Ministra Eliana Calmon, Primeira Seção, DJ 28/10/2003; MS 6.523/DF, Rel. Ministro Herman Benjamin, Primeira Seção, DJ 22/10/2009; AgRg no REsp 1.079.212/SP , Rel. Ministro Castro Meira, Segunda Turma, DJ 13/05/2009; REsp 439.133/SC, Rel. Ministra Denise Arruda, Primeira Turma, DJ 22/09/2008; REsp 816.829/RJ, Rel. Ministro Luiz Fux, Primeira Turma, DJ 19/11/2007.
 BRASIL. Superior Tribunal de Justiça. REsp n.º  1.111.175/SP , DJe de 01/07/2009.
@@ -501,7 +501,7 @@ E As asserções I e II são proposições falsas.
 
 ###NUMERO: 26###
 
-Questão: O 24 
+Questão:  24 
 Uma das obrigações implícitas de quem exerce o direito de ação é a de apresentar com clareza o que se postula, “porque a exata compreensão do postulado irá influir decididamente na possibilidade de defesa, dificultando o contraditório,” e “a ausência de clareza importa em retardamento da prestação jurisdicional, maculando o princípio da duração razoável do processo”.
 BRASIL, Tribunal Regional do Trabalho da 3. ª Região, processo n. º 00634-2011-015-03-00-6 RO, DEJT de 25/06/2012.
 Considerando a necessidade de clareza da postulação, conforme alude o texto acima, suponha que, em uma ação trabalhista, tenha sido impossível ao juiz determinar exatamente a pretensão do autor. Nessa situação, infere-se queA o autor incorreu em ofensa ao princípio da lealdade processual.
@@ -515,7 +515,7 @@ DIREITO
 
 ###NUMERO: 27###
 
-Questão: O 25 
+Questão:  25 
 A noção de Constituições rígidas é decorrência dos movimentos constitucionalistas modernos, surgidos principalmente a partir de meados do século XVII. Conquanto estivesse entre os objetivos desses movimentos idealizar nova forma de ordenação, fundamentação e limitação do poder político por meio de documento escrito, tornou-se necessária a distinção entre poder constituinte e poderes constituídos.Considerando-se o disposto na Constituição Federal de 1988, seria constitucional lei que
 I. permitisse a contratação de promotor de justiça, sem concurso público, mediante livre escolha do procurador-geral de justiça.
 II. obrigasse membros de associações a permanecerem associados por vinte anos.
@@ -529,7 +529,7 @@ E I, II e III.
 
 ###NUMERO: 28###
 
-Questão: O 26 
+Questão:  26 
 Os relatórios, de forma sintética, identificaram os seguintes desafios que se colocam para o Judiciário: 1) uma trajetória de judicialização em que vários atores (governo, mídia e advocacia) fomentam o crescimento da litigiosidade; 2) uma conjuntura socioeconômica que colaborou para um crescimento vertiginoso de demandas ligadas ao sistema de crédito no Brasil; 3) um quadro de variados incentivos para a litigação e para a interposição de recursos, o que só reforça a morosidade e o congestionamento do sistema judicial, em um círculo vicioso e em um contexto em que a cultura de conciliação ainda encontra pouco espaço.Diante desses desafios, conclui-se que, em face da crise da morosidade judicial, o Judiciário não pode agir mais reativamente ao aumento sistemático da litigância processual. Ações de caráter proativo, capitaneadas pelo Poder Judiciário, incluindo-se o Conselho Nacional de Justiça (CNJ), são necessárias para o efetivo combate do problema e passam pelo aperfeiçoamento da gestão judicial, pela legitimação dos mecanismos alternativos de resolução de conflito, pela elaboração de políticas de redução e de filtro das demandas judiciais e pela cooperação interinstitucional com órgãos da Administração Pública (no caso presente, com INSS, Ministério da Previdência Social e Banco Central) e com instituições privadas ligadas ao maior número de litígios (bancos, empresas de telefonia etc.).
 BRASIL. Conselho Nacional de Justiça. Departamento de Pesquisas Judiciárias. Demandas repetitivas e morosidade na justiça cível brasileira. 
 Brasília, jul. 2011. Disponível em: <http://www.cnj.jus.br>. Acesso em: 12 jul. 2012 (adaptado).
@@ -544,7 +544,7 @@ DIREITO
 
 ###NUMERO: 29###
 
-Questão: O 27 
+Questão:  27 
 Nos contratos de massa, os valores constitucionais da dignidade da pessoa humana, do trabalho e da livre iniciativa, o preenchimento do conceito de “Estado Democrático de Direito”, os princípios da liberdade, justiça e solidariedade, o da igualdade e as diretrizes da política nacional do consumo, entre as quais se destaca o princípio da boa-fé, oferecem aos tribunais sólidas bases de referência para a interpretação, no contrato, de uma “normativa intervencionista”, quando violados, ou em vias de serem violados, ditos princípios.
 MARTINS-COSTA, J. Crise e modificação da ideia de contrato. In: TEPEDINO, G.; 
 FACHIN, L. E. Doutrinas essenciais: obrigações e contratos. v. III. 
@@ -564,7 +564,7 @@ E IV e V.
 
 ###NUMERO: 30###
 
-Questão: O 28 
+Questão:  28 
 Avalie as seguintes afirmações com referência à competência da Justiça do Trabalho para julgar ações de dissídios coletivos, possessórias, mandados de segurança e habeas data.
 I. A competência funcional para processar e julgar dissídios coletivos é dos Tribunais Regionais do Trabalho ou do Tribunal Superior do Trabalho, conforme a área de abrangência do conflito e a representação das categorias envolvidas no conflito de interesses.
 II. A Justiça do Trabalho é incompetente para julgar ações possessórias, incluído o interdito proibitório, ainda que essas ações sejam decorrentes do exercício do direito de greve dos trabalhadores da iniciativa privada.
@@ -582,7 +582,7 @@ DIREITO
 
 ###NUMERO: 31###
 
-Questão: O 29 
+Questão:  29 
 CONSTITUCIONAL. TRIBUTÁRIO. RECURSO ESPECIAL REPRESENTATIVO DA CONTROVÉRSIA (ART. 543-C DO CPC).LEI INTERPRETATIVA. PRAZO DE PRESCRIÇÃO PARA A REPETIÇÃO DE INDÉBITO NOS TRIBUTOS SUJEITOS A LANÇAMENTO POR HOMOLOGAÇÃO. ART. 3.º , DA LC 118/2005. POSICIONAMENTO DO STF. ALTERAÇÃO DA 
 JURISPRUDÊNCIA DO STJ. SUPERADO ENTENDIMENTO FIRMADO ANTERIORMENTE TAMBÉM EM SEDE DE RECURSO REPRESENTATIVO DA CONTROVÉRSIA.1. O acórdão proveniente da Corte Especial na AI no Eresp n. º 644.736/PE, Relator o Ministro Teori Albino Zavascki, 
 DJ de 27/08/2007, e o recurso representativo da controvérsia REsp. n.º  1.002.932/SP , Primeira Seção, Rel. Min. Luiz Fux, 
@@ -612,7 +612,7 @@ DIREITO
 
 ###NUMERO: 32###
 
-Questão: O 30 
+Questão:  30 
 O direito à moradia ingressou no art. 6.º da Constituição Federal por força da Emenda Constitucional n. º 26/2000. 
 Tal alteração deu causa à rediscussão do entendimento de alguns institutos do direito civil, em especial o referente à garantia do bem de família previsto na legislação ordinária. A garantia ao bem de família inclui a situação em que
 I. o proprietário oferece o único imóvel de sua propriedade como garantia hipotecária de dívida de terceiro.
@@ -628,7 +628,7 @@ E II, III e IV.
 
 ###NUMERO: 33###
 
-Questão: O 31 
+Questão:  31 
 Considere que Tito e Lívio devam determinada quantia a Sílvio e Felipe e que, vencida a dívida, Sílvio, isoladamente, tenha acionado Tito para a cobrança. Nessa situação, Sílvio teria direito a cobrarA 100% da dívida, pois a obrigação é indivisível.
 B 25% do valor da dívida, por se tratar de obrigação divisível.
 C 50% da dívida, dada a presunção de solidariedade passiva entre os devedores.
@@ -637,7 +637,7 @@ E 100% da dívida, se Felipe vier a integrar o polo ativo da lide, pois há, na 
 
 ###NUMERO: 34###
 
-Questão: O 32 
+Questão:  32 
 Relativamente aos crimes contra a Administração Pública, avalie as situações hipotéticas apresentadas nos itens a seguir.
 I. Pratica crime de peculato-apropriação o funcionário que, não tendo a posse de dinheiro, valor ou bem, o subtraia ou concorra para que seja subtraído, em proveito próprio ou alheio, valendo-se de facilidade que lhe proporciona a qualidade de funcionário.  
 II. Pratica crime de concussão o servidor que exija, para si ou para outrem, direta ou indiretamente, ainda que fora da função exercida na Administração ou antes de assumi-la, mas em razão dela, vantagem indevida. 
@@ -651,7 +651,7 @@ E I, II e III.
 
 ###NUMERO: 35###
 
-Questão: O 33 
+Questão:  33 
 Alfa ofereceu, no prazo decadencial previsto em lei, representação em face de Beta, em razão de injúria consistente na utilização de elementos relativos à sua condição de portador de deficiência física, tais como “manco” e “aleijadinho”. Oferecida a denúncia, não houve possibilidade de composição, transação penal ou suspensão condicional do processo. Após algum tempo, em virtude da relação de amizade entre os filhos de Alfa e Beta, Alfa encaminhou ao juízo encarregado pedido de arquivamento do processo, pois perdera o interesse na persecução criminal.Na situação apresentada, o juiz deveriaA julgar improcedente a ação penal e absolver o réu.
 B extinguir o processo, sem julgamento de mérito, por falta de interesse de agir de Alfa.
 C negar o pedido de Alfa, por ser irretratável a representação após o oferecimento da denúncia.
@@ -663,7 +663,7 @@ DIREITO
 
 ###NUMERO: 36###
 
-Questão: O 34 
+Questão:  34 
 Mandado de Segurança. Questões fáticas de alta indagação. Há que se distinguir a complexidade dos fatos e do tema de direito daquelas situações que não prescindem de abertura de fase de instrução. Se o caso está compreendido no campo da referida dificuldade, nem por isso o mandado de segurança exsurge como via imprópria, impondo-se o julgamento de mérito. Somente em se defrontando o órgão julgador com quadro a exigir elucidação de fatos cabe dizer da impertinência da medida, sinalizando no sentido do ingresso em juízo mediante ação ordinária .
 RMS n.º  21514/DF. Relator: Min. Marco Aurélio. Julgamento em: 27/04/1993, 
 publicado no DJ de 18/06/1993 p. 12111. Disponível em: 
@@ -681,7 +681,7 @@ E As asserções I e II são proposições falsas.
 
 ###NUMERO: 37###
 
-Questão: O 35 
+Questão:  35 
 Assunto de enorme importância neste novo milênio é o que diz respeito ao rápido desenvolvimento das ciências biomédicas, com destaque para as questões referentes à genética e, particularmente, à sua relação com o Direito Penal. O avanço do conhecimento científico e de suas aplicações técnicas, ao mesmo tempo em que suscita novas esperanças à coletividade, preocupa os indivíduos, dados os possíveis riscos e abusos decorrentes de uma “livre” investigação científica das ciências que tratam da vida. Nesse sentido, a Lei n. º 11.105/2005 define como 
 crime as manipulações realizadas com o fim de reproduzir um ser humano biologicamente idêntico a outro. Destacam-se, ainda, os seguintes documentos legais: a Constituição Federal do Brasil, que, em seu artigo 5.º, inciso IX, garante a liberdade de expressão da atividade intelectual, artística e científica, bem como a liberdade de comunicação, independentemente de censura ou licença, e a Lei n. º 11.105/2005, que, em seu artigo 26, prevê pena 
 de reclusão de dois a cinco anos, além de pagamento de multa, para os responsáveis por clonagem humana.Com base no contexto descrito acima, avalie as seguintes asserções e a relação proposta entre elas.I. A tipificação penal da clonagem humana revela a preocupação do legislador quanto à tutela de bens jurídico-penais supraindividuais, tal como a intangibilidade do patrimônio genético humano.
@@ -698,7 +698,7 @@ DIREITO
 
 ###NUMERO: 38###
 
-Questão: O DISCURSIVA 3 
+Questão:  DISCURSIVA 3 
 A Lei n.º 10.220, de 11 de abril de 2001, que dispõe sobre normas gerais relativas à atividade de peão de rodeio, equiparando-o a atleta profissional, em seu art. 2º, estabelece que: “o contrato celebrado entre a entidade promotora das provas de rodeios e o peão, obrigatoriamente por escrito, deve conter:
 I. a qualificação das partes contratantes;
 II. o prazo de vigência, que será, no mínimo, de quatro dias e, no máximo, de dois anos;
@@ -721,7 +721,7 @@ DIREITO
 
 ###NUMERO: 39###
 
-Questão: O DISCURSIVA 4 
+Questão:  DISCURSIVA 4 
 Pelos estudos que temos desenvolvido sobre a matéria, pensamos que há bilateralidade atributiva quando duas ou mais pessoas se relacionam segundo uma proporção objetiva que as autoriza a pretender ou a fazer garantidamente algo. Quando um fato social apresenta esse tipo de relacionamento, dizemos que ele é jurídico. Onde não existe proporção no pretender, no exigir ou no fazer, não há Direito, como inexiste este se não houver garantia específica para tais atos.Bilateralidade atributiva é, pois, uma proporção intersubjetiva, em razão da qual os sujeitos de uma relação ficam autorizados a pretender, exigir ou fazer, garantidamente, algo.Esse conceito desdobra-se nos seguintes elementos complementares:
 I. sem relação que una duas ou mais pessoas, não há Direito;
 II. para que haja Direito, é indispensável que a relação entre os sujeitos seja objetiva, isto é, insuscetível de ser reduzida, unilateralmente, a qualquer dos sujeitos da relação;
@@ -740,7 +740,7 @@ DIREITO
 
 ###NUMERO: 40###
 
-Questão: O DISCURSIVA 5 
+Questão:  DISCURSIVA 5 
 Suponha que agentes da polícia civil, após invadirem, durante a madrugada, casa onde residem Antônio e Pedro, tenham encontrado, no quarto de Pedro, 15 quilogramas de maconha e 30 frascos de lança-perfume. Suponha, ainda, que, com base nessa descoberta, os agentes tenham efetuado a prisão de Antônio e Pedro.
 Com referência à situação hipotética descrita acima, redija um texto dissertativo, respondendo, de forma fundamentada, às questões que se seguem.
 a) Que norma de direito fundamental é aplicável à situação? (valor: 3,0 pontos)b) A prisão de Antônio e Pedro deve ser mantida? (valor: 4,0 pontos)c) A conduta dos policiais é legítima? (valor: 3,0 pontos)
@@ -754,49 +754,49 @@ DIREITO
 
 ###NUMERO: 41###
 
-Questão: O  1
+Questão:   1
 Qual o grau de dificuldade desta prova na parte de Formação Geral?A Muito fácil.B Fácil.C Médio.D Difícil.E Muito difícil.
 
 
 ###NUMERO: 42###
 
-Questão: O  2
+Questão:   2
 Qual o grau de dificuldade desta prova na parte de Componente Específico?A Muito fácil.B Fácil.C Médio.D Difícil.E Muito difícil.
 
 
 ###NUMERO: 43###
 
-Questão: O  3
+Questão:   3
 Considerando a extensão da prova, em relação ao tempo total, você considera que a prova foiA muito longa.B longa.C adequada.D curta.E muito curta.
 
 
 ###NUMERO: 44###
 
-Questão: O  4
+Questão:   4
 Os enunciados das questões da prova na parte de Formação Geral estavam claros e objetivos?A Sim, todos.B Sim, a maioria.C Apenas cerca da metade.D Poucos.E Não, nenhum.
 
 
 ###NUMERO: 45###
 
-Questão: O  5
+Questão:   5
 Os enunciados das questões da prova na parte de Componente Específico estavam claros e objetivos?A Sim, todos.B Sim, a maioria.C Apenas cerca da metade.D Poucos.E Não, nenhum.
 
 ###NUMERO: 46###
 
-Questão: O  6
+Questão:   6
 As informações/instruções fornecidas para a resolução das questões foram suficientes para resolvê-las?A Sim, até excessivas.B Sim, em todas elas.C Sim, na maioria delas.D Sim, somente em algumas.E Não, em nenhuma delas.
 
 
 ###NUMERO: 47###
 
-Questão: O  7
+Questão:   7
 Você se deparou com alguma dificuldade ao responder à prova. Qual?A Desconhecimento do conteúdo.B Forma diferente de abordagem do conteúdo.C Espaço insuficiente para responder às questões.D Falta de motivação para fazer a prova.E Não tive qualquer tipo de dificuldade para responder
       à prova.
 
 
 ###NUMERO: 48###
 
-Questão: O  8
+Questão:   8
 Considerando apenas as questões objetivas da prova, você percebeu queA não estudou ainda a maioria desses conteúdos.B estudou alguns desses conteúdos, mas não os aprendeu.
 C estudou a maioria desses conteúdos, mas não os aprendeu.
 D estudou e aprendeu muitos desses conteúdos.E estudou e aprendeu todos esses conteúdos.
@@ -804,7 +804,7 @@ D estudou e aprendeu muitos desses conteúdos.E estudou e aprendeu todos esses c
 
 ###NUMERO: 49###
 
-Questão: O  9
+Questão:   9
 Qual foi o tempo gasto por você para concluir a prova?A Menos de uma hora.B Entre uma e duas horas.C Entre duas e três horas.D Entre três e quatro horas.E Quatro horas, e não consegui terminar.QUESTIONÁRIO DE PERCEPÇÃO DA PROVA
 As questões abaixo visam levantar sua opinião sobre a qualidade e a adequação da prova
 que você acabou de realizar. Assinale as alternativas correspondentes à sua opinião nos

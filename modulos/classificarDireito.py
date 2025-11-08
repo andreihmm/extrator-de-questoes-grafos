@@ -34,7 +34,7 @@ def classificarQuestoesCsv():
         "- Ética e Cidadania\n"
         "- Formação Geral\n"
         "- Outros\n"
-        "Responda apenas com a tag mais apropriada para a questão, sem explicações."
+        "Não é para você buscar a resposta das perguntas. Responda apenas com a tag mais apropriada para a questão, sem explicações."
     )
 
 

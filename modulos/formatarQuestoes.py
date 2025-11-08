@@ -10,7 +10,7 @@ client = Groq(api_key=GROQ_GRAFOS)
 
 def gerarListaQuestoes(caminhoPDF):
     textoCru = eT.extrair_texto_pdf(caminhoPDF)
-    return textoCru.split("QUESTÃ")
+    return textoCru.split("QUESTÃO")
 
 def formatarQuestoes(questoes):
     caminho_saida = os.path.join("outputs", "saidaGrafos.txt")
@@ -35,28 +35,31 @@ def formatarQuestoes(questoes):
 
                                 1. Mantenha apenas texto puro.
                                 2. Corrija erros de português, pontuação e clareza.
-                                3. Separe o enunciado e as alternativas de forma explícita:
+                                3. Coloque TITULO: para mostrar o nome/numeração da questão antes do enunciado. A Questão: 03 deve ter o título Questão 03.
+                                4. Separe o enunciado e as alternativas de forma explícita:
                                 - Coloque ENUNCIADO: antes do texto da pergunta.
                                 - Coloque ALTERNATIVA: antes de cada alternativa.
-                                4. Liste cada alternativa em uma linha separada.
-                                5. Não use letras A), B), C)... apenas o texto da alternativa.
-                                6. Preserve todas as informações importantes da questão.
-                                7. Caso o texto seja sobre instruções da prova (sem pergunta), retorne apenas: INSTRUÇÃO.
-                                8. Caso a questão seja objetiva, adicione ;OBJETIVA ao final, e caso seja discursiva adicione ;DISCURSIVA
+                                5. Liste cada alternativa em uma linha separada.
+                                6. Não use letras A), B), C)... apenas o texto da alternativa.
+                                7. Preserve todas as informações importantes da questão.
+                                8. Caso o texto seja sobre instruções da prova (sem pergunta), retorne apenas: INSTRUÇÃO.
+                                9. Caso a questão seja objetiva, adicione ; TIPO: OBJETIVA ao final, e caso seja discursiva adicione ;TIPO: DISCURSIVA
+                                10. As últimas 9 questões da prova são sobre percepção da prova, e por isso devem ser excluídas.
                                 
                                 Exemplo:
                                 Entrada:
-                                QUESTÃO: Qual a tradução de 'dog'?
+                                QUESTÃO 23: Qual a tradução de 'dog'?
                                 A) Gato
                                 B) Cachorro
                                 C) Pássaro
 
                                 Saída:
+                                TITULO: QUESTÃO 23;
                                 ENUNCIADO: Qual a tradução de 'dog'?
                                 ALTERNATIVA: Gato
                                 ALTERNATIVA: Cachorro
                                 ALTERNATIVA: Pássaro
-                                ;DISCURSIVA
+                                ; TIPO: OBJETIVA
 
                                 Questão a corrigir:
                                 {questao}
